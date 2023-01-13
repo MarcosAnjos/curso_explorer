@@ -24,7 +24,7 @@ Projeto desenvolvido durante as trilha do Explorer
 ---
 ### Stage 03
 
-[Formulário - Compartilhe seu evento  ](/03/formulario-clone-aula/)
+[Formulário - Compartilhe seu evento  ](03/formulario-clone-aula/REDEME.md)
 
 [Formulário - Memtoria  ](/03/)
 
