@@ -26,7 +26,9 @@ Projeto desenvolvido durante as trilha do Explorer
 
 [Formulário - Compartilhe seu evento  ](03/formulario-clone-aula/REDEME.md)
 
-[Formulário - Memtoria  ](/03/)
+[Formulário - Memtoria  ](/03/desafio-formulario-mentoria/)
+
+[Formulário - Avaliação Memtoria  ](/03/desafio-formulario-avaliacao-mentoria/)
 
 
 
